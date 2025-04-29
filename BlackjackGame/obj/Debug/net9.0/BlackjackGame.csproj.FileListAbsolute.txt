@@ -1,0 +1,15 @@
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\bin\Debug\net9.0\BlackjackGame.exe
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\bin\Debug\net9.0\BlackjackGame.deps.json
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\bin\Debug\net9.0\BlackjackGame.runtimeconfig.json
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\bin\Debug\net9.0\BlackjackGame.dll
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\bin\Debug\net9.0\BlackjackGame.pdb
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.AssemblyInfoInputs.cache
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.AssemblyInfo.cs
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.csproj.CoreCompileInputs.cache
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.sourcelink.json
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.dll
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\refint\BlackjackGame.dll
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.pdb
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\BlackjackGame.genruntimeconfig.cache
+C:\Users\blade\OneDrive\Documents\GitHub\csci-106-2025-spring-01-final-group-2\BlackjackGame\obj\Debug\net9.0\ref\BlackjackGame.dll
